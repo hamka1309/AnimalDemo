@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimalDemo</string>
+    <string name="save">Lưu</string>
+    <string name="bird">Chim</string>
+    <string name="fish">Cá</string>
+    <string name="mammals">Thú có vú</string>
+    <string name="reptile">Bò sát</string>
+    <string name="age">Tuổi</string>
+    <string name="name">Tên</string>
+    <string name="size">Kích thước</string>
+</resources>

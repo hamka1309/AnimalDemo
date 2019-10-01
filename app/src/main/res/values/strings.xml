@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnimalDemo</string>
+    <string name="save">Save</string>
+    <string name="bird">Bird</string>
+    <string name="fish">Fish</string>
+    <string name="reptile">Reptile</string>
+    <string name="mammals">Mammals</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="size">Size</string>
+</resources>
